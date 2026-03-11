@@ -1,2 +1,5 @@
 pylint
 pytest
+flask
+scikit-learn
+pandas
